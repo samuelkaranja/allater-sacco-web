@@ -1,0 +1,31 @@
+.banner {
+  height: 40vh;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.banner .more {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.banner h1 {
+  margin: 20px 0;
+}
+
+.banner h4 {
+  line-height: 1.7;
+}
+
+.banner button {
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
